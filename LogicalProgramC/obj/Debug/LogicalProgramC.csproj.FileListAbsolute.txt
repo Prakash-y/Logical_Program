@@ -1,0 +1,8 @@
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\bin\Debug\LogicalProgramC.exe.config
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\bin\Debug\LogicalProgramC.exe
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\bin\Debug\LogicalProgramC.pdb
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\obj\Debug\LogicalProgramC.csproj.AssemblyReference.cache
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\obj\Debug\LogicalProgramC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\obj\Debug\LogicalProgramC.csproj.CoreCompileInputs.cache
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\obj\Debug\LogicalProgramC.exe
+C:\Users\Prakash Yadav\source\repos\LogicalProgramC\LogicalProgramC\obj\Debug\LogicalProgramC.pdb
